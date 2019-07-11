@@ -1,3 +1,3 @@
 # deletion efficient kmeans
 
-Documentation, usage examples, and more to come soon!
+Documentation, usage examples, mild code refactor, and more to come soon!
