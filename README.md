@@ -7,13 +7,12 @@ This repository contains a research prototype of two provably deletion efficient
 
 If you use this prototype for research, please reference the original paper [Making AI forget you: Data deletion in machine learning](https://arxiv.org/abs/1907.05012):
 ```
-@misc{ginart2019making,
-    title={Making AI Forget You: Data Deletion in Machine Learning},
-    author={Antonio Ginart and Melody Y. Guan and Gregory Valiant and James Zou},
-    year={2019},
-    eprint={1907.05012},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@inproceedings{ginart2019making,
+  title={Making AI forget you: Data deletion in machine learning},
+  author={Ginart, Antonio and Guan, Melody and Valiant, Gregory and Zou, James Y},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={3513--3526},
+  year={2019}
 }
 ```
 
